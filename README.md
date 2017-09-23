@@ -1,10 +1,10 @@
-# Friend Finder - Node and Express Servers
+# Squad Spot (Friend Finder) - Node/Express App
 
-### Compatibility based application
+### Squad Spot is a compatibility-based application
 
-* The application will take in results from users' surveys then compare their results against all other users who have completed it. The application will then display the name and picture of the user with the best match overall.
+* The application will take in results from users' surveys then compare their results against other users' survey results. After submitting the survey, the application displays the name and picture of the user ("friend") with the best match in a modal pop-up.
 
-* The survey has 10 questions, answers to the survey questions are on a scale of 1-5 based on how much the user agrees or disagrees.
+* The survey has 10 statements that apply to the user's self-description/depiction; the user's answers to the survey statements are weighted (given points) on a scale of 1-5, 5 meaning the user strongly agrees with the statement, 1 meaning the user strongly disagrees.
 
 
 ## Technical details
